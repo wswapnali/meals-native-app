@@ -1,0 +1,22 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules/
+
+# Dependency directories
+**/android/app/build/
+**/ios/Pods/
+**/ios/build/
+**/ios/Podfile.lock
+**/ios/Podfile.local.lock
+**/ios/Pods/
+
+# Build
+android/app/build/
+ios/build/
+
+# Miscellaneous
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
